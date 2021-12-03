@@ -14,28 +14,28 @@ What is skripto? Skripto is most similar to Python, so if you know python that's
 
 ---
 
-[Program Tick](!SANDBOX_PROGRAM_TICK)
+[Program Tick](program-tick.md)
 
-[Control Flow](!SANDBOX_CONTROL_FLOW)
+[Control Flow](control-flow.md)
 
-[Commands](!SANDBOX_COMMANDS)
+[Commands](commands.md)
 
-[Lifecycle](!SANDBOX_LIFECYCLE)
+[Lifecycle](lifecycle.md)
 
-[Values](!SANDBOX_VALUES)
+[Values](values.md)
 
-[Built-Ins](!SANDBOX_BUILT_INS)
+[Built-Ins](built-ins.md)
 
-[Interaction](!SANDBOX_INTERACTION)
+[Interaction](interaction.md)
 
-[Counters](!SANDBOX_COUNTERS)
+[Counters](counters.md)
 
-[Scroll](!SANDBOX_SCROLL)
+[Scroll](scroll.md)
 
-[Vars](!SANDBOX_VARS)
+[Vars](vars.md)
 
-[Details](!SANDBOX_DETAILS)
+[Details](details.md)
 
-[Scope](!SANDBOX_SCOPE)
+[Scope](scope.md)
 
-[Overlays](!SANDBOX_OVERLAYS)
+[Overlays](overlays.md)
