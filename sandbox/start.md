@@ -1,5 +1,4 @@
 ```load-basic
-
 # click on board
 
 # use arrow keys to move 
@@ -11,7 +10,7 @@
 
 What is skripto? Skripto is most similar to Python, so if you know python that's a great start!
 
-[Start Tour of Skripto](!SANDBOX_PROGRAM_FLOW)
+[Start Tour of Skripto](program-flow.md)
 
 ---
 
