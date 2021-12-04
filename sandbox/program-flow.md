@@ -29,8 +29,6 @@ the code that repeats while the object is alive
 ##### dead
 the code that runs after the alive: loop, but before the object is destroyed
 
----
-
 [Next Program Tick](program-tick.md)
 
 ---
