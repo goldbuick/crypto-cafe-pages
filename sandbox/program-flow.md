@@ -31,8 +31,8 @@ the code that runs after the alive: loop, but before the object is destroyed
 
 ---
 
-[Next Program Tick](!SANDBOX_PROGRAM_TICK)
+[Next Program Tick](program-tick.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Start](start.md)
