@@ -2,15 +2,21 @@
 cycle(100)
 
 alive:
+  idle()
+  
+  talk('down')
   walk(DOWN)
   walk(DOWN)
 
+  talk('up')
   walk(UP)
   walk(UP)
   
+  talk('left')
   walk(LEFT)
   walk(LEFT)
   
+  talk('right')
   walk(RIGHT)
   walk(RIGHT)
 ```
