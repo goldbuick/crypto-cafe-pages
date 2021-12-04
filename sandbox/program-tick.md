@@ -1,20 +1,36 @@
 ```load-basic
+cycle(100)
 
+alive:
+  walk(DOWN)
+  walk(DOWN)
+
+  walk(UP)
+  walk(UP)
+  
+  walk(LEFT)
+  walk(LEFT)
+  
+  walk(RIGHT)
+  walk(RIGHT)
 ```
 
 ### Program Tick
-Explain ticks, explain how the program pauses after certain commands
 
-  <!-- 'api.walk',
-  'api.follow',
-  'api.jump',
-  'api.idle',
-  'api.shoot',
-  'api.die', -->
+What is a program tick? As your game runs, each update cycle is called a tick.
 
-[Next Control Flow](!SANDBOX_CONTROL_FLOW)
+Basically one unit of movement / change. There are certain commands that will pause until next tick.
+
+* walk
+* follow
+* jump
+* idle
+* shoot
+* die
+
+[Next Control Flow](control-flow.md)
 
 ---
 
-[Back To Program Flow](!SANDBOX_PROGRAM_FLOW) //
-[Back To Start](!SANDBOX_START)
+[Back To Program Flow](program-flow.md) //
+[Back To Start](start.md)
