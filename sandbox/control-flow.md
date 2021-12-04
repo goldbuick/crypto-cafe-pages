@@ -24,14 +24,17 @@ alive:
 
 ##### If Statements
 When the given condition is met, executes the indented block below it
+
 ```
 if False:
   talk('hello')
 ```
+
 Also in skripto you use **elif** for an else if statement
 
 ##### While Statements
 While the condition is met, executes the indented block below it
+
 ```
 while False:
   pass
@@ -39,14 +42,17 @@ while False:
 
 ##### For Statements
 Loop over the given array, while setting the given variable to the current value.
+
 ```
 for v in range(1, 3):
   pass
 ```
+
 In this example, v will equal 1, 2, then 3 as it loops.
 
 ##### Alive Statement
 This is a while loop what loops as long as the object is alive.
+
 ```
 alive:
   walk(RND)
@@ -54,6 +60,7 @@ alive:
 
 ##### Every Statement
 This is a conditional that executes the indented block below it, every X number of updates.
+
 ```
 every 100:
   talk('100')
@@ -61,14 +68,15 @@ every 100:
 
 ##### Repeat Statement
 This is a while loop that loops the given number of times.
+
 ```
 repeat 3:
   pass
 ```
 
-[Next Commands](!SANDBOX_COMMANDS)
+[Next Commands](commands.md)
 
 ---
 
-[Back To Program Tick](!SANDBOX_PROGRAM_TICK) //
-[Back To Start](!SANDBOX_START)
+[Back To Program Tick](program-tick.md) //
+[Back To Start](start.md)
