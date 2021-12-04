@@ -1,17 +1,20 @@
-```load-basic
+```load-water
+cycle(10)
 
+alive:
+  walk(RND)
+  walk(RND)
+  walk(RND)
+  shoot(RND)
 ```
 
 ### Lifecycle
 
 Here is some content!
 
----
-
-[Next Values](!SANDBOX_VALUES)
-
-[Back To Commands](!SANDBOX_COMMANDS)
+[Next Values](values.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Commands](commands.md) //
+[Back To Start](start.md)
