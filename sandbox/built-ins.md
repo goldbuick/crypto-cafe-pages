@@ -6,12 +6,9 @@
 
 Here is some content!
 
----
-
-[Next Interaction](!SANDBOX_INTERACTION)
-
-[Back To Values](!SANDBOX_VALUES)
+[Next Interaction](interaction.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Values](values.md) //
+[Back To Start](start.md)
