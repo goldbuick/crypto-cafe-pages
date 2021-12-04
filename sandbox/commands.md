@@ -14,9 +14,9 @@ Below is simple example of an object that walks around randomly.
 Try changing the value given to `cycle` to **5**.
 Now try changing the value to **100**.
 
-[Next Lifecycle](!SANDBOX_LIFECYCLE)
+[Next Lifecycle](lifecycle.md)
 
 ---
 
-[Back To Control Flow](!SANDBOX_CONTROL_FLOW) //
-[Back To Start](!SANDBOX_START)
+[Back To Control Flow](control-flow.md) //
+[Back To Start](start.md)
