@@ -6,12 +6,9 @@
 
 Here is some content!
 
----
-
-[Next Vars](!SANDBOX_VARS)
-
-[Back To Counters](!SANDBOX_COUNTERS)
+[Next Vars](vars.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Counters](counters.md) //
+[Back To Start](start.md)
