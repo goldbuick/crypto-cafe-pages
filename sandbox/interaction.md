@@ -6,12 +6,9 @@
 
 Here is some content!
 
----
-
-[Next Counters](!SANDBOX_COUNTERS)
-
-[Back To Built-Ins](!SANDBOX_BUILT_INS)
+[Next Counters](counters.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Built-Ins](built-ins.md) //
+[Back To Start](start.md)
