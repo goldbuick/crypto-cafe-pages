@@ -1,5 +1,5 @@
 ```load-basic
-cycle(100)
+cycle(50)
 
 alive:
   idle()
