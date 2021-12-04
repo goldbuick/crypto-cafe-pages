@@ -8,10 +8,5 @@ Here is some content!
 
 ---
 
-[Next Control Flow](!SANDBOX_START)
-
-[Back To Start](!SANDBOX_START)
-
----
-
-[Back To Start](!SANDBOX_START)
+[Back To Scope](scope.md) //
+[Back To Start](start.md)
