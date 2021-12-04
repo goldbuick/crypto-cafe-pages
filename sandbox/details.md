@@ -6,12 +6,9 @@
 
 Here is some content!
 
----
-
-[Next Scope](!SANDBOX_SCOPE)
-
-[Back To Vars](!SANDBOX_VARS)
+[Next Scope](scope.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Vars](vars.md) //
+[Back To Start](start.md)
