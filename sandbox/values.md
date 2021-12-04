@@ -6,12 +6,9 @@
 
 Here is some content!
 
----
-
-[Next Built Ins](!SANDBOX_BUILT_INS)
-
-[Back To Lifecycle](!SANDBOX_LIFECYCLE)
+[Next Built Ins](built-ins.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Lifecycle](lifecycle.md) //
+[Back To Start](start.md)
