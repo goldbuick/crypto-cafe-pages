@@ -6,12 +6,9 @@
 
 Here is some content!
 
----
-
-[Next Overlays](!SANDBOX_OVERLAYS)
-
-[Back To Details](!SANDBOX_DETAILS)
+[Next Overlays](overlays.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Details](details.md) //
+[Back To Start](start.md)
