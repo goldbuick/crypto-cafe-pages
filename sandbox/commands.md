@@ -14,6 +14,8 @@ Below is simple example of an object that walks around randomly.
 Try changing the value given to `cycle` to **5**.
 Now try changing the value to **100**.
 
+The next set of pages will cover the different categories of commands.
+
 [Next Lifecycle](lifecycle.md)
 
 ---
