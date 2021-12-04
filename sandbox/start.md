@@ -5,7 +5,6 @@
 
 # use shift + arrow keys to shoot
 ```
-
 ### Tour of Skripto
 
 What is skripto? Skripto is most similar to Python, so if you know python that's a great start!
