@@ -6,12 +6,9 @@
 
 Here is some content!
 
----
-
-[Next Details](!SANDBOX_DETAILS)
-
-[Back To Scroll](!SANDBOX_SCROLL)
+[Next Details](details.md)
 
 ---
 
-[Back To Start](!SANDBOX_START)
+[Back To Scroll](scroll.md) //
+[Back To Start](start.md)
