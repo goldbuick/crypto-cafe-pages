@@ -6,7 +6,7 @@
 
 Here is some content!
 
-[Next Built Ins](built-ins.md)
+[Next CHAR values](char-values.md)
 
 ---
 
