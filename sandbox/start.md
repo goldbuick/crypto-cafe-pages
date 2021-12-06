@@ -23,6 +23,8 @@ What is skripto? Skripto is most similar to Python, so if you know python that's
 
 [Values](values.md)
 
+[Char Values](char-values.md)
+
 [Built-Ins](built-ins.md)
 
 [Interaction](interaction.md)
