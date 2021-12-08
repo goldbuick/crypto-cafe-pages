@@ -18,6 +18,9 @@ alive:
 
   repeat 3:
     pass
+    
+  events:
+    pass
 ```
 
 ### Control Flow
@@ -71,6 +74,14 @@ This is a while loop that loops the given number of times.
 
 ```
 repeat 3:
+  pass
+```
+
+##### Events Statement
+This is a while loop that loops through any events for the object has.
+
+```
+events:
   pass
 ```
 
