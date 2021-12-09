@@ -78,7 +78,7 @@ repeat 3:
 ```
 
 ##### Events Statement
-This is a while loop that loops through any events for the object has.
+This is a while loop that loops through any events the object has received.
 
 ```
 events:
