@@ -21,12 +21,12 @@ With all the value related commands you pick which source of data to use.
 
 ##### Value Commands
 
-* `get('ammo')`
-* `set('ammo', 10)`
-* `give(10, 'ammo')`
-* `take(10, 'ammo')`
-* `has('ammo')`
-* `setIfEmpty('ammo', 10)`
+* `get('ammo') get a stored value.`
+* `set('ammo', 10) set a stored value.`
+* `give(10, 'ammo') add 10 to the stored value.`
+* `take(10, 'ammo') subtract 10 from the stored value.`
+* `has('ammo') returns true if value has been set.`
+* `setIfEmpty('ammo', 10) sets stored value only if it has not been set.`
 
 [Next CHAR values](char-values.md)
 
