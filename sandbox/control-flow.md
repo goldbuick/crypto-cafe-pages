@@ -30,8 +30,7 @@ When the given condition is met, executes the indented block below it
 
 ```
 if False:
-  talk('hello')
-```
+  talk('hello')```
 
 Also in skripto you use **elif** for an else if statement
 
