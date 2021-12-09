@@ -59,5 +59,5 @@ Skripto has built-in constants for common things.
 
 ---
 
-[Back To Values](values.md) //
+[Back To Char Values](char-values.md) //
 [Back To Start](start.md)
