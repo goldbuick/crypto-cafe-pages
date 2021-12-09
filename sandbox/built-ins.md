@@ -1,8 +1,14 @@
 ```load-darkness
-cycle(25)
-setLight(SMALL)
+cycle(SECOND)
+setLight(MEDIUM)
 
 alive:
+  idle()
+  
+  walk(RND)
+  talk(HEALTH)
+  idle()
+  
   die()
   
 sfx(EXPLODE)
