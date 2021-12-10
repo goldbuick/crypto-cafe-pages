@@ -6,8 +6,10 @@ alive:
       talk('player hit me')
     if bullet(event.TOUCH):
       talk('bullet hit me')
-    if name(event.THUD) == 'water':
-      talk('I ran into water')    
+    if player(event.THUD):
+      talk('I ran into the player')
+    if event.BLOCKED:
+      talk(event.BLOCKED)      
 ```
 
 ### Interaction
