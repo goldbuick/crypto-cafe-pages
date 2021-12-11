@@ -18,7 +18,12 @@ alive:
 
 ### Scroll
 
-Here is some content!
+Scrolls are a quick way to show the player messages as well as give them options to pick.
+
+```
+scroll('Thing', event.TOUCH) # Send scroll to one player referenced by event.TOUCH.
+scroll('Thing') # Send the scroll to any player on the board.
+```
 
 [Next Vars](vars.md)
 
