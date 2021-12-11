@@ -1,7 +1,7 @@
 ```load-pushable
 cycle(1)
 alive:
-  every 10 * SECONDS:
+  every 10 * SECOND:
     talk('bump into me')
     
   events:
