@@ -14,6 +14,8 @@ alive:
 
 In Skripto you can also make local variables. This is useful if you are doing logic that doesn't require external influence.
 
+You create a local variable by assigning a value to a name. `toggle = 1`
+
 [Next Details](details.md)
 
 ---
