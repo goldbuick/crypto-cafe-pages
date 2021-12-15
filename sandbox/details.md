@@ -1,10 +1,10 @@
-```load-basic
+```load-water
 
 ```
 
 ### Details
 
-Here is some content!
+For getting or changing information about an object or terrain element there are details related commands.
 
 [Next Scope](scope.md)
 
