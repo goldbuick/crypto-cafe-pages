@@ -43,18 +43,13 @@ For getting or changing information about an object or terrain element there are
  - `bullet(event.THUD)` returns true if the given element is named bullet **OR** collision is **BULLET**
 
 ##### Appearance
- - `tile`
- - `setTile`
- - `color`
- - `setColor`
+ - `tile(event.THUD)` tile is the sprite used to draw the game element
+ - `color(event.THUD)` color is the color of the sprite used to draw the game element
 
 ##### Stats
- - `light`
- - `setLight`
- - `collision`
- - `setCollision`
- - `pushable`
- - `setPushable`
+ - `light(event.THUD)` on dark boards, this controls if the element emits light
+ - `collision(event.THUD)` collision controls how objects can move around boards
+ - `pushable(event.THUD)` tells wether an object can be pushed or not
 
 [Next Scope](scope.md)
 
