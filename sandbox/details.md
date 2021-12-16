@@ -34,7 +34,27 @@ alive:
 
 ### Details
 
-For getting or changing information about an object or terrain element there are details related commands.
+For getting or changing information about an object or terrain element there are detail commands.
+
+##### Names
+ - `name(event.THUD)` returns the name of the given element 
+ - `match(event.THUD, 'car')` returns true if the given element matches the name
+ - `player(event.THUD)` returns true if the given element is named player 
+ - `bullet(event.THUD)` returns true if the given element is named bullet **OR** collision is **BULLET**
+
+##### Appearance
+ - `tile`
+ - `setTile`
+ - `color`
+ - `setColor`
+
+##### Stats
+ - `light`
+ - `setLight`
+ - `collision`
+ - `setCollision`
+ - `pushable`
+ - `setPushable`
 
 [Next Scope](scope.md)
 
