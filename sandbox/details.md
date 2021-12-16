@@ -22,9 +22,11 @@ alive:
     if event.THUD:
       talk(
         name(event.THUD) + ':' +
+        tile(event.THUD) + ':' +
         color(event.THUD) + ':' +
         collision(event.THUD)
       )
+      setTile(tile(event.THUD))
       setColor(color(event.THUD))
     if event.BLOCKED:
       talk(event.BLOCKED)
