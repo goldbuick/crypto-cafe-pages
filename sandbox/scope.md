@@ -12,26 +12,32 @@ There are different categories for these commands query, and filter.
 
 #### Query
 
- - `find` things
- - `raycast` things
- - `emptySpace` things
- - `coordsFromRect` things
+ - `find('name')` return a list coords of elements with the given name.
+ - `raycast(from, to)` returns a ray a list of coords, and hit coord if the ray hit something.
+ - `emptySpace()` returns a list of coords where you can place an object. 
+ - `coordsFromRect(x1, y1, x2, y2)` returns a list of coords from the given rectangle. 
 
 #### Filter
 
 ##### Detail Filters
+These set of filters work both for terrain and objects.
 
 - `with` things
 
 ##### Stat Filters
+These set of filters work both for terrain and objects.
 
  - `withLight` if element at coord has this light stat
+ - `withCollision` if element at coord has this collision stat
+ - `withPushable` if element at coord has this pushable stat
 
 ##### Value Filters
+These set of filters work only for objects.
 
-- `with` things
+- `withValue` if object
 
 ##### Distance and Direction Filters
+These set of filters work both for terrain and objects.
 
 - `with` things
 
