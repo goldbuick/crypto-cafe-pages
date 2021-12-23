@@ -1,10 +1,10 @@
 ```load-water-player
 cycle(1)
-set(HEALTH, 100)
-give(1, [RED,KEY])
+set('HEALTH', 100)
+give(1, [RED,'KEY'])
 
-counterNumber(HEALTH, 'Health')
-counterItem([RED,KEY], KEY, 12, RED)
+counterNumber('HEALTH', 'Health')
+counterItem([RED,'KEY'], 'KEY', 12, RED)
 
 alive:
   if input.MOVE:
@@ -12,7 +12,7 @@ alive:
   events:
     if bullet(event.TOUCH):
       sfx(EXPLODE)
-      take(1, HEALTH)
+      take(1, 'HEALTH')
 ```
 
 ### Counters
