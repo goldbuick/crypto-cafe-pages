@@ -1,5 +1,5 @@
 ```load-basic
-
+set('ammo', 10)
 ```
 
 ### Values
