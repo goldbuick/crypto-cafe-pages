@@ -1,16 +1,13 @@
-```load-basic
+```load-pushable
+cycle(2 * SECOND)
 
+alive:
+  follow(find('barrel') ?> nearest())
 ```
 
 ### Scope
 
-Here is some content!
-
-`find('player') ?> withCollision(WALK) ?> withValueGreaterThan(HEALTH, 10)`
-
-Gets re-written as
-
-`withValueGreaterThan(HEALTH, 10, withCollision(WALK, find('player')))`
+Talk about the different categories of scope commands
 
 [Next Overlays](overlays.md)
 
