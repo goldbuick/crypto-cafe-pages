@@ -6,7 +6,6 @@ alive:
   idle()
   
   walk(RND)
-  talk(HEALTH)
   idle()
   
   die()
@@ -41,15 +40,6 @@ Skripto has built-in constants for common things.
 
 ##### colors
   * `link to colors page in docs goes here ... `
-
-##### values
-These are some common names for use with get() & set(). ie: get(HEALTH), etc...
-  * `HEALTH`
-  * `AMMO`
-  * `GEMS`
-  * `TORCHES`
-  * `SCORE`
-  * `KEY`
 
 ##### sound
 These are names for the built-in sound effects.
