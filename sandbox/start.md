@@ -37,16 +37,19 @@ What is skripto? Skripto is most similar to Python, so if you know python that's
 
 [Details](details.md)
 
+[Deco](deco.md)
+
+[Decals](decals.md)
+
 [Scope](scope.md)
+
+[Players](players.md)
+
+[Bullets](bullets.md)
 
 [Overlays](overlays.md)
 
 ---
 
-### Notes
-
-Example of how to write player code
-
-Example of how to write bullet code
 
 
