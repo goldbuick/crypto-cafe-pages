@@ -55,5 +55,5 @@ These set of filters work both for terrain and objects.
 
 ---
 
-[Back To Details](details.md) //
+[Back To Decals](decals.md) //
 [Back To Start](start.md)
