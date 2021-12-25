@@ -5,7 +5,16 @@ alive:
   if input.WALK;
     walk(input.DIR)
   if input.SHOOT:
-    shoot(input.DIR)
+    shake()
+    talk('no ammo!')
+  if input.ACTION_1:
+    spin(0)
+  if input.ACTION_2:
+    spin(2)
+  if input.ACTION_3:
+    spin(8)
+  if input.ACTION_4:
+    spin(16)
   events:
     if event.THUD or event.BLOCKED:
       bump()
