@@ -51,7 +51,7 @@ For getting or changing information about an object or terrain element there are
  - `collision(event.THUD)` collision controls how objects can move around boards
  - `pushable(event.THUD)` tells wether an object can be pushed or not
 
-[Next Scope](scope.md)
+[Next Deco](deco.md)
 
 ---
 
