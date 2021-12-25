@@ -2,7 +2,7 @@
 cycle(1)
 
 alive:
-  if input.WALK;
+  if input.MOVE:
     walk(input.DIR)
   if input.SHOOT:
     shake()
