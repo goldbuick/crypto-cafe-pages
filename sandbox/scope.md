@@ -51,7 +51,7 @@ These set of filters work both for terrain and objects.
 - `directionIs(dir, coords)` returns coords in the given direction from self.
 
 
-[Next Overlays](overlays.md)
+[Next Players](players.md)
 
 ---
 
