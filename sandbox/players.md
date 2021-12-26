@@ -8,6 +8,8 @@ alive:
     walk(input.DIR)
   if input.SHOOT:
     shoot(input.DIR)
+  if input.ACTION_1:
+    teleport(select('basic', 'water', 'pushable'))
 
   events:
     if bullet(event.TOUCH):
