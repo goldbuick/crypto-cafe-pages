@@ -25,7 +25,7 @@ alive:
 
 ### Decals
 
-Decals allow you to place extra non-colliding sprite on your object.
+Decals allow you to place extra non-colliding sprites on your object.
 
  - `addDecal(name, tile, color, x, y)` adds a new deco sprite to the object
  - `setDecalTile(name, tile)` updates tile on a deco sprite
