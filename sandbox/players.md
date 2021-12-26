@@ -1,6 +1,10 @@
 ```load-basic-player
 cycle(1)
 
+alive:
+  if input.MOVE:
+    walk(input.DIR)
+
 ```
 
 ### Players
