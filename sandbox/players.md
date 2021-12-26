@@ -1,10 +1,17 @@
 ```load-basic-player
 cycle(1)
+set('health', 100)
+counterNumber('health', 'health')
 
 alive:
   if input.MOVE:
     walk(input.DIR)
+  if input.SHOOT:
+    shoot(input.DIR)
 
+  events:
+    if bullet(event.TOUCH):
+      take(1, 'health')
 ```
 
 ### Players
