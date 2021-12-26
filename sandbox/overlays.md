@@ -44,5 +44,5 @@ alive:
 
 ---
 
-[Back To Scope](scope.md) //
+[Back To Bullets](bullets.md) //
 [Back To Start](start.md)
