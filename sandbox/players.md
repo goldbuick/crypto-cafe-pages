@@ -9,6 +9,7 @@ alive:
   if input.SHOOT:
     shoot(input.DIR)
   if input.ACTION_1:
+    sfx(POWERUP)
     teleport(select('basic', 'water', 'pushable'))
 
   events:
