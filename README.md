@@ -1,6 +1,6 @@
-# crypto-cafe-pages
+# skripto-cafe-pages
 
-tutorial and help content for crypto cafe
+tutorial and help content for skripto cafe
 
 all pages should be kabob-case 
 
