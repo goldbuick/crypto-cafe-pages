@@ -6,5 +6,3 @@
 ### Tour of Skripto
 
 Tutorial pages are in the process of being re-written.
-
-[Start Tour of Skripto](program-flow.md)
