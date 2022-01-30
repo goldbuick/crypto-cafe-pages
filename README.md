@@ -1,6 +1,6 @@
-# skripto-cafe-pages
+# zed-cafe-pages
 
-tutorial and help content for skripto cafe
+tutorial and help content for zed cafe
 
 all pages should be kabob-case 
 
