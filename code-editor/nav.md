@@ -1,7 +1,7 @@
 |            | ZZT-OOP++ |
 | ---------: | :-- |
 | Prefixes   | `#` [Command](command.md) `/?` [Movement](movement.md) `:` [Label](label.md) `'` [Comment](comment.md) `!` [Hyperlink](hyperlink.md) |
-| Messages   | ... |
+| Messages   | [shot](msg_shot.md) • [thud](msg_thud.md) • [touch](msg_touch.md) • [bump](msg_bump.md) • [edge](msg_edge.md) |
 | Directions | [cardinal](dir_cardinal.md) • [idle](dir_idle.md) • [seek](dir_seek.md) • [flow](dir_flow.md) • [modifiers](dir_modifiers.md) • [random](dir_random.md) • [extended](extended.md) |
 | Vars       | [tick](var_tick.md) • [link](var_link.md) • [sender](var_sender.md) • [data](var_data.md) • [player](var_player.md) • [source](var_source.md) • [forward](var_forward.md) • [toopoor](var_toopoor.md) • [firstgive](var_firstgive.md) • [chatplayer](var_chatplayer.md) • [inputmove](var_inputmove.md) • [inputshoot](var_inputshoot.md) • [input1](var_input1.md) • [input2](var_input2.md) • [input3](var_input3.md) • [input4](var_input4.md) |
 | Commands   | [become](cmd_become.md) • [bind](cmd_bind.md) • [change](cmd_change.md) • [char](cmd_char.md) • [clear](cmd_clear.md) • [cycle](cmd_cycle.md) • [die](cmd_die.md) • [end](cmd_end.md) • [endgame](cmd_endgame.md) • [give](cmd_give.md) • [go](cmd_go.md) • [idle](cmd_idle.md) • [if](cmd_if.md) • [lock](cmd_lock.md) • [play](cmd_play.md) • [put](cmd_put.md) • [restart](cmd_restart.md) • [restore](cmd_restore.md) • [send](cmd_send.md) • [set](cmd_set.md) • [shoot](cmd_shoot.md) • [take](cmd_take.md) • [try](cmd_try.md) • [unlock](cmd_unlock.md) • [zap](cmd_zap.md) |
