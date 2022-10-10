@@ -1,7 +1,3 @@
-### ZZT-OOP++
-
-Just some test content here while I figure out navigation setup
+ZZT-OOP++ is the programming language used by objects in zed.cafe 
 
 ::nav.md
-
-[test](test.md)
